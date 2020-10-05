@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/switch_flag"
+        android:id="@+id/switch_flag"/>
+
+    <item android:title="@string/get_flag"
+        android:id="@+id/get_flag"/>
+
+    <item android:title="@string/clear_preferences"
+        android:id="@+id/clear_preferences"/>
+
+</menu>

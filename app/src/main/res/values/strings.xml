@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="switch_flag">switch flag</string>
+    <string name="get_flag">get flag</string>
+    <string name="clear_preferences">clear preferences</string>
+    <string name="initial_money">0</string>
+    <string name="click_to_take_money">$$$Click to take money$$$</string>
+    <string name="update_200_1000">update +200 ($1000)</string>
+    <string name="update_1000_10000">update +1000 ($10000)</string>
+    <string name="welcome_to_test">Welcome to Test</string>
+    <string name="please_choose_action_from_options_menu">Please, choose action from options menu</string>
+</resources>
